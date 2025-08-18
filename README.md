@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/shubhankardikshant"><b>🚀 See my projects!</b></a> |
+  <a href="https://github.com/dikshant-18"><b>🚀 See my projects!</b></a> |
   <a href="mailto:shubhankardikshant@gmail.com"><b>📧 Contact Me</b></a>
 </p>
 
