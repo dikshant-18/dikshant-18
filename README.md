@@ -51,10 +51,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
+
+<p align="center">
+  <h3>Personal Portfolio:</h3>
+  <a href="https://vercel.com/dikshant-shubhankar-s-projects/personal-portfolio" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Portfolio Button" />
+  </a>
+</p>
+
+---
 <h3>Stats</h3>
 <p align="center">
-  <h5>Github: </h5>
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshant-18&show_icons=true&count_private=true&theme=gruvbox" width="370" />
   <h5>LeetCode: </h5>
   <img src="https://leetcard.jacoblin.cool/shubhankardikshant?ext=heatmap" width="370" />
 </p>
